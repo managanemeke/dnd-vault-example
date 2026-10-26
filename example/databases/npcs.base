@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Name of Campaign COPY THIS FOLDER/Player Info/02-Characters/NPCs")
+    order:
+      - file.name
+      - Note Type
+    columnSize:
+      note.Note Type: 1788
