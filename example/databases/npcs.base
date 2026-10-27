@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("Name of Campaign COPY THIS FOLDER/Player Info/02-Characters/NPCs")
+        - file.inFolder("example/player/02_characters/non-player")
     order:
       - file.name
       - Note Type
