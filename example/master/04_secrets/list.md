@@ -3,11 +3,11 @@
 
 # People
 
-### [[Cheeky McButtz (Example)]] 
+### [[01_cheeky-mc-buttz]] 
 
 - [ ]  makes penguin noises while sleeping.
 
-### [[Thomas Tank Engine (Example)]] 
+### [[02_thomas-tank-engine]] 
 
  - [ ] is not actually a Tank Engine.  
 
