@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("example/player/02_characters/non-player")
+        - file.inFolder("example/02_master/07_characters")
     order:
       - file.name
       - Note Type
