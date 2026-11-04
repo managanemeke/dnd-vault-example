@@ -8,3 +8,11 @@ Campaign: Scroll
 
 [Черновик](draft.md)
 
+---
+
+## Parts
+
+[Части](parts.md)
+
+---
+
