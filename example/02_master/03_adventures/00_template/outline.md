@@ -32,10 +32,6 @@ Players supposed steps...
 
 1. Rory the Elephant
 
-### Beasts
-
-1. The Hunter
-
 ### Secrets
 
 List of secrets...
