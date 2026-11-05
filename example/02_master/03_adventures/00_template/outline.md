@@ -14,6 +14,10 @@ Random thoughts of mind flow...
 
 ## Parts
 
+### Limitations
+
+1. Only one combat encounter.
+
 ### Events
 
 1. The elephants request.
