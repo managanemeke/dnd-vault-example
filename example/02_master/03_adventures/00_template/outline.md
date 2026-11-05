@@ -36,10 +36,6 @@ Players supposed steps...
 
 List of secrets...
 
-### Background
-
-Long text about the Adventure explaining the set-up.
-
 ---
 
 ## Scenes
