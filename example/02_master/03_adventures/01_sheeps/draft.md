@@ -307,4 +307,4 @@ lighting, high detail, fantasy illustration
 ---
 
 Stong - Прикосновение
-https://music.yandex.com/album/26654091/track/115631840
+https://music.yandex.ru/album/26654091/track/115631840
