@@ -308,3 +308,17 @@ lighting, high detail, fantasy illustration
 
 Stong - Прикосновение
 https://music.yandex.ru/album/26654091/track/115631840
+
+---
+
+Points
+Points of interest
+
+Точки
+Точки интереса
+
+Секрет может относиться к:
+1. Персонажу.
+2. Точке.
+
+---
