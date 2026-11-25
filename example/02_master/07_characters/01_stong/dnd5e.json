@@ -1,0 +1,169 @@
+{
+  "$schema": "https://raw.githubusercontent.com/BrianWendt/dnd5e_json_schema/master/schemas/Character.schema.json",
+  "name": "Стонг",
+  "player": {
+    "name": ""
+  },
+  "race": {
+    "name": "Гоблин",
+    "size": "Small"
+  },
+  "classes": [
+    {
+      "name": "Плут",
+      "subtype": "Мистический ловкач",
+      "level": 16,
+      "hit_die": 8
+    }
+  ],
+  "xp": 210900,
+  "speed": {
+    "Walk": 30
+  },
+  "hit_points": {
+    "max": 128,
+    "current": 128,
+    "temporary": 0,
+    "dice": [
+      {
+        "count": 16,
+        "sides": 8
+      }
+    ]
+  },
+  "ability_scores": {
+    "str": 8,
+    "dex": 26,
+    "con": 10,
+    "int": 14,
+    "wis": 10,
+    "cha": 8
+  },
+  "saving_throws": {
+    "str": false,
+    "dex": true,
+    "con": false,
+    "int": true,
+    "wis": true,
+    "cha": false
+  },
+  "armor_class": {
+    "value": 20,
+    "description": "Проклёпанный кожаный доспех (12+[DEX])"
+  },
+  "senses": {
+    "Darkvision": false
+  },
+  "conditions": {},
+  "image": {
+    "src": "https://hotbox.longstoryshort.app/avatar/6afe8babb404ec0e45abe6bf.jpeg?mod=1795067623912",
+    "uri": "https://hotbox.longstoryshort.app/avatar/6afe8babb404ec0e45abe6bf.jpeg?mod=1795067623912",
+    "alt": "Стонг"
+  },
+  "weapon_proficiencies": [
+    "Simple Weapons"
+  ],
+  "armor_proficiencies": [
+    "Light Armor"
+  ],
+  "proficiency_bonus": 5,
+  "ability_score_bonuses": [
+    {
+      "ability": "dex",
+      "base_score": 20,
+      "bonus": 6
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Жестокая рапира",
+      "source": {
+        "text": "D&D.su",
+        "href": "https://dnd.su/items/2164-1-vicious-rapier/"
+      },
+      "damage": {
+        "dice": {
+          "count": 1,
+          "sides": 8,
+          "mod": 8
+        },
+        "type": "Piercing"
+      },
+      "attack_bonus": 13,
+      "description": "+7 во время критической атаки"
+    },
+    {
+      "name": "Короткий лук",
+      "source": {
+        "text": "D&D.su",
+        "href": "https://dnd.su/articles/inventory/96-arms/#weapon.shortbow"
+      },
+      "damage": {
+        "dice": {
+          "count": 1,
+          "sides": 6,
+          "mod": 8
+        },
+        "type": "Piercing"
+      },
+      "attack_bonus": 13
+    },
+    {
+      "name": "Кинжал",
+      "source": {
+        "text": "D&D.su",
+        "href": "https://dnd.su/articles/inventory/96-arms/#weapon.dagger"
+      },
+      "damage": {
+        "dice": {
+          "count": 1,
+          "sides": 4,
+          "mod": 8
+        },
+        "type": "Piercing"
+      },
+      "attack_bonus": 13
+    },
+    {
+      "name": "Кинжал",
+      "source": {
+        "text": "D&D.su",
+        "href": "https://dnd.su/articles/inventory/96-arms/#weapon.dagger"
+      },
+      "damage": {
+        "dice": {
+          "count": 1,
+          "sides": 4,
+          "mod": 8
+        },
+        "type": "Piercing"
+      },
+      "attack_bonus": 13
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Проклёпанный кожаный доспех",
+      "quantity": 1,
+      "source": {
+        "text": "D&D.su",
+        "href": "https://dnd.su/articles/inventory/95-armor-and-shields/#armor.light"
+      }
+    },
+    {
+      "name": "Колчан с 20 стрелами",
+      "quantity": 1
+    },
+    {
+      "name": "Набор взломщика",
+      "quantity": 1,
+      "description": "рюкзак\nсумка с 1 000 металлических шариков\n10 футов лески\nколокольчик\n5 свечек\nломик\nмолоток\n10 шлямбуров\nзакрытый фонарь\n2 фляги масла\nрационы на 5 дней\nтрутница\nбурдюк\n50-футовая пеньковая верёвка"
+    },
+    {
+      "name": "Воровские инструменты",
+      "quantity": 1,
+      "description": "надфиль\nнабор отмычек\nнебольшое зеркальце с металлической рукояткой\nнабор ножниц с узкими лезвиями\nпара щипцов"
+    }
+  ],
+  "spells": []
+}
